@@ -11,10 +11,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=permana29&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=permana29&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
